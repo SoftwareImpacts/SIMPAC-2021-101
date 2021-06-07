@@ -1,0 +1,16 @@
+metadata_version: 1
+name: TPMS Designer
+description: Implicitly defined structures such as triply periodic minimal surfaces (TPMS) have incredible potential with a range of applications in science, technology, engineering, arts and mathematics. TPMS Designer is a tool for rapidly generating, visualizing and analyzing TPMS and other implicitly defined structures. The software allows users to parametrically define a structures’ implicit function, the cell size, volume fraction (defined by isovalues), Euler rotation, and resolution. The software allows control over cellular volume fraction through a set of isovalue options, to generate thin-wall surfaces, skeletal network structures and anything in between. TPMS Designer includes a variety of tools for importing and exporting to be compatible with traditional computer aided design (CAD) programs. Various properties of any implicit surface can be visualized including local curvature, surface orientation as well as range of derived functions – for example to provide fundamental insights or to assess suitability of a structure for additive manufacturing (AM).
+tags:
+- Additive manufacturing (AM)
+- Computer Aided Design (CAD)
+- Triply periodic minimal surfaces (TPMS)
+- visualization
+- MATLAB
+authors:
+- name: Alistair Jones
+  affiliations:
+  - name: RMIT University
+corresponding_contributor:
+  name: Alistair Jones
+  email: alistairj43@gmail.com
